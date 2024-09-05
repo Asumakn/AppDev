@@ -1,0 +1,7 @@
+C:\Users\2374472\source\repos\AppDev\HeartRates\HeartRates\bin\Debug\HeartRates.exe.config
+C:\Users\2374472\source\repos\AppDev\HeartRates\HeartRates\bin\Debug\HeartRates.exe
+C:\Users\2374472\source\repos\AppDev\HeartRates\HeartRates\bin\Debug\HeartRates.pdb
+C:\Users\2374472\source\repos\AppDev\HeartRates\HeartRates\obj\Debug\HeartRates.csproj.AssemblyReference.cache
+C:\Users\2374472\source\repos\AppDev\HeartRates\HeartRates\obj\Debug\HeartRates.csproj.CoreCompileInputs.cache
+C:\Users\2374472\source\repos\AppDev\HeartRates\HeartRates\obj\Debug\HeartRates.exe
+C:\Users\2374472\source\repos\AppDev\HeartRates\HeartRates\obj\Debug\HeartRates.pdb

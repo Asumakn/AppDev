@@ -1,0 +1,7 @@
+C:\Users\2374472\source\repos\AppDev\HealthRecords\HealthRecords\bin\Debug\HealthRecords.exe.config
+C:\Users\2374472\source\repos\AppDev\HealthRecords\HealthRecords\bin\Debug\HealthRecords.exe
+C:\Users\2374472\source\repos\AppDev\HealthRecords\HealthRecords\bin\Debug\HealthRecords.pdb
+C:\Users\2374472\source\repos\AppDev\HealthRecords\HealthRecords\obj\Debug\HealthRecords.csproj.AssemblyReference.cache
+C:\Users\2374472\source\repos\AppDev\HealthRecords\HealthRecords\obj\Debug\HealthRecords.csproj.CoreCompileInputs.cache
+C:\Users\2374472\source\repos\AppDev\HealthRecords\HealthRecords\obj\Debug\HealthRecords.exe
+C:\Users\2374472\source\repos\AppDev\HealthRecords\HealthRecords\obj\Debug\HealthRecords.pdb
